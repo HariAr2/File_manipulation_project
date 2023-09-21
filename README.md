@@ -1,7 +1,4 @@
-_______________________________________________________________ALGORITHM_______________________________________________________________________
-
-
-Algorithm: Simple File Manipulation or management Program
+ALGORITHM: Simple File Manipulation or management Program
 
 
 1. Display the program title and introductory message.
@@ -82,11 +79,10 @@ Algorithm: Simple File Manipulation or management Program
 
 
 
--------This was done by 
+    This was done by 
               $ HARI ARAVINDH
               $ VIGNESH
               $ HARASHAK
 
 
-
-**********************************************************************************************************************************************THANK YOU***************************************************
+                                                      THANK YOU
