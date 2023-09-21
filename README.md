@@ -80,9 +80,9 @@ ALGORITHM: Simple File Manipulation or management Program
 
 
     This was done by 
-              $ HARI ARAVINDH
-              $ VIGNESH
-              $ HARASHAK
+              1) HARI ARAVINDH
+              2) VIGNESH
+              3)  HARASHAK
 
 
                                                       THANK YOU
