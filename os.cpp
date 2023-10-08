@@ -179,7 +179,7 @@ int main () {
      if (option == "6") {
      	system("color 0");
      	system("cls");
-    	std::remove("file.txt"); 									//Delete the file 
+    	std::remove("file.txt"); 									//process to Delete the file 
     	cout << "\n\n\n\n"; 
  		cout << "        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww" << endl;
         cout << "        x      FILE SUCCESSFULLY REMOVED       x\n" ;	
